@@ -1,6 +1,6 @@
 # Changelog
 
-## v1.1 &mdash; 10-02-2021
+## v1.1 - 10-02-2021
 #### Added
 - Brands listing page
 - Gift Card page
