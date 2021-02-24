@@ -6,6 +6,7 @@
 - Gift Card page
 - Password page
 - More social media options
+- FAQ section for homepage
 
 
 #### Changed
