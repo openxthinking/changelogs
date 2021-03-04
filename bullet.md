@@ -1,5 +1,22 @@
 # Changelog
 
+## v1.2 - 04-03-2021
+#### Added
+- Introduced placeholder content (now when you first install the theme you see some placeholder content on homepage)
+
+
+#### Changed
+- Some jQuery code was converted to vanilla js
+- Icons' logic to match future themes
+- Adapted more code to match future themes
+
+
+#### Fixed
+- Stated licensing for modules
+- Bug in header text logo where logo collapsed
+- Other bugs
+
+
 ## v1.2 - 01-03-2020
 #### Added
 - Brands listing page
