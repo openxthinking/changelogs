@@ -17,7 +17,7 @@
 - Other bugs
 
 
-## v1.2 - 01-03-2020
+## v1.2 - 10-02-2021
 #### Added
 - Brands listing page
 - Even more social media options
