@@ -1,6 +1,6 @@
 # Changelog
 
-## v1.2 - 04-03-2021
+## v1.3 - 04-03-2021
 #### Added
 - Introduced placeholder content (now when you first install the theme you see some placeholder content on homepage)
 
