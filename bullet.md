@@ -1,5 +1,24 @@
 # Changelog
 
+## v1.4 - 02-04-2021
+#### Added
+- Added a diff file with changes from previous version
+
+
+#### Changed
+- Some jQuery code was converted to vanilla js
+- Adapted more code to match future themes
+
+
+#### Fixed
+- Fixed a bug where the border of suggested products was showing bottom not top
+- Currency JS bug fixed
+- Fixed a bugs of the double hero banner where bottom pixel was looking strange
+- Fixed other border imperfections on product page & home
+- Fixed typos in translation file
+- Fixed bug where price inside button wasn't changing when a variant was updated/selected
+- Fixed a bug where provinces wasn't working when a country with provinces was selected
+
 ## v1.3 - 04-03-2021
 #### Added
 - Introduced placeholder content (now when you first install the theme you see some placeholder content on homepage)
