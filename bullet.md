@@ -1,5 +1,42 @@
 # Changelog
 
+## v1.5 - 05-05-2021
+
+#### Added:
++ added option to disable currency switch
++ Added Impressum link support
++ Created the Layout for list-collections
++ missing translation of tags
++ added styles for Shopify default Legal pages
+
+#### Fixed:
++ fixed a border bug on reviews box
++ If no description in footer privacy/terms stays at the bottom of the block
++ fixed layout bugs in custom prod page
++ Fixed buy block on product page on mobile when it arrives over footer goes below it now
++ fixed 1px mismatch in footer newsletter input
++ fixed right border on suggested products on mobile
++ fixed bottom border on mobile on last block
++ "sent message" in contact form was hardcoded: fixed it
++ fixed layout probs on brands page
++ ajax loading wasn't working on prod collection page
++ fixed a bug where search wasn't showing "no matches" when no results
++ fixed a bug when showing articles in search results
++ fixed: Sort_by wasn't working
++ fixed a bug where alt on img wasn't showing because it wasn't being passed
++ fixed white space if blogs posts are 3. now first post takes 1 row
++ fixed: img on product page wasn't taking 100% of the width
++ fixed: cookies' popup button wasn't showing the right colors
++ fixed: cards text colors wasn't changing
++ fixed: button of 'homepage image + text block' wasn't the right style 
+
+#### Updated:
++ update meta to be w3 valid
++ now socials list is all in 1 file
++ update json code on product page
+
+
+
 ## v1.4 - 02-04-2021
 #### Added
 - Added a diff file with changes from previous version
