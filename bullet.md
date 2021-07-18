@@ -1,5 +1,21 @@
 # Changelog
 
+## v1.6 - 19-07-2021
+
+#### Added:
++ You can now pick the collection to display products from on the homepage
++ Added a background for cards in case your prod images are making prod title not clear to read.
++ Added possibility to turn on/off qty box
++ Added a Menu drawer
++ Added OpenThinking WarpDrive v1
++ Added filter by type in collection pages 
+
+#### Fixed:
++ Fixed a bug where homepage "latest prod" wasn't showing the latest products
++ Fixed logo problem
++ Fixed Password page style bugs
++ Fixed Image sizes bug fix
+
 ## v1.5 - 05-05-2021
 
 #### Added:
