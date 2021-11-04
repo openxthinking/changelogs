@@ -1,6 +1,8 @@
-# Changelog
+# Bullet changelog
 
-## v1.6 - 19-07-2021
+## v1.6 - (19/07/2021)
+<details>
+<summary>Release notes</summary>
 
 #### Added:
 + You can now pick the collection to display products from on the homepage
@@ -16,7 +18,11 @@
 + Fixed Password page style bugs
 + Fixed Image sizes bug fix
 
-## v1.5 - 05-05-2021
+</details>
+
+## v1.5 - (05/05/2021)
+<details>
+<summary>Release notes</summary>
 
 #### Added:
 + added option to disable currency switch
@@ -51,9 +57,12 @@
 + now socials list is all in 1 file
 + update json code on product page
 
+</details>
 
+## v1.4 - (02/04/2021)
+<details>
+<summary>Release notes</summary>
 
-## v1.4 - 02-04-2021
 #### Added
 - Added a diff file with changes from previous version
 
@@ -72,7 +81,12 @@
 - Fixed bug where price inside button wasn't changing when a variant was updated/selected
 - Fixed a bug where provinces wasn't working when a country with provinces was selected
 
-## v1.3 - 04-03-2021
+</details>
+
+## v1.3 - (04/03/2021)
+<details>
+<summary>Release notes</summary>
+
 #### Added
 - Introduced placeholder content (now when you first install the theme you see some placeholder content on homepage)
 
@@ -88,8 +102,12 @@
 - Bug in header text logo where logo collapsed
 - Other bugs
 
+</details>
 
-## v1.2 - 10-02-2021
+## v1.2 - (10/02/2021)
+<details>
+<summary>Release notes</summary>
+
 #### Added
 - Brands listing page
 - Even more social media options
@@ -101,8 +119,12 @@
 - Improved speed
 - Bug fixes
 
+</details>
 
-## v1.1 - 10-12-2020
+## v1.1 - (10/12/2020)
+<details>
+<summary>Release notes</summary>
+
 #### Added
 - Gift Card page
 - Password page
@@ -121,6 +143,7 @@
 - More bug fixes
 - Improved speed
 
+</details>
 
-## v1.0.0 - 04-04-2020
+## v1.0.0 - (04/04/2020)
 - Initial release
