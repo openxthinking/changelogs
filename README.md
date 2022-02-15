@@ -2,4 +2,6 @@
 Contains themes changelogs.
 
 ## Bullet
-https://openthinking.net/changelog/bullet.md
+`v1` - https://openthinking.net/changelog/bullet/v1.md
+
+`v2` - https://openthinking.net/changelog/bullet/v2.md
