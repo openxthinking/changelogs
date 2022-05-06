@@ -1,20 +1,18 @@
 {
-  "data": {
-    "theme": "Bullet.",
-    "url": "https://openthinking.net/themes/bullet/",
-    "shopify": "https://themes.shopify.com/themes/bullet/styles/default",
-    "docs": "https://bullet.docs.openthinking.net/",
-    "changelog": "https://openthinking.net/changelog/bullet/v2.md",
-    "demo": {
-      "store-1": "https://themes.shopify.com/themes/bullet/styles/default/preview",
-      "store-2": "https://themes.shopify.com/themes/bullet/styles/khaki/preview",
-      "store-3": "https://themes.shopify.com/themes/bullet/styles/vision/preview"
-    },
-    "versioning": {
-      "v2.0":   { "date": "17/02/2022" },
-      "v2.1.0": { "date": "28/03/2022" },
-      "v2.2.0": { "date": "04/04/2022" },
-      "v2.2.5": { "date": "05/05/2022" }
-    }
+  "theme": "Bullet.",
+  "url": "https://openthinking.net/themes/bullet/",
+  "shopify": "https://themes.shopify.com/themes/bullet/styles/default",
+  "docs": "https://bullet.docs.openthinking.net/",
+  "changelog": "https://openthinking.net/changelog/bullet/v2.md",
+  "demo": {
+    "store-1": "https://themes.shopify.com/themes/bullet/styles/default/preview",
+    "store-2": "https://themes.shopify.com/themes/bullet/styles/khaki/preview",
+    "store-3": "https://themes.shopify.com/themes/bullet/styles/vision/preview"
+  },
+  "versioning": {
+    "v2.0":   { "date": "17/02/2022" },
+    "v2.1.0": { "date": "28/03/2022" },
+    "v2.2.0": { "date": "04/04/2022" },
+    "v2.2.5": { "date": "05/05/2022" }
   }
 }
