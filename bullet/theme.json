@@ -4,6 +4,11 @@
   "shopify": "https://themes.shopify.com/themes/bullet/",
   "docs": "https://bullet.docs.openthinking.net/",
   "changelog": "https://openthinking.net/changelog/bullet/v2.md",
+  "locale": {
+    "en": "English", 
+    "it": "Italian", 
+    "es": "Spanish"
+  },
   "demo": {
     "store-1": "https://themes.shopify.com/themes/bullet/styles/default/preview",
     "store-2": "https://themes.shopify.com/themes/bullet/styles/khaki/preview",
@@ -14,6 +19,7 @@
     "1": { "version":"v2.0", "date": "17/02/2022" },
     "2": { "version":"v2.1.0", "date": "28/03/2022" },
     "3": { "version":"v2.2.0", "date": "04/04/2022" },
-    "4": { "version":"v2.2.5", "date": "05/05/2022" }
+    "4": { "version":"v2.2.5", "date": "05/05/2022" },
+    "5": { "version":"v2.3.0", "date": "24/06/2022" }
   }
 }
