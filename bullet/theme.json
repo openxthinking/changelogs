@@ -6,9 +6,9 @@
   "docs": "https://bullet.docs.openthinking.net/",
   "changelog": "https://openthinking.net/changelog/bullet/v2.md",
   "locale": {
-    "en": "English", 
-    "it": "Italian", 
-    "es": "Spanish"
+    "en": "🇺🇸 English", 
+    "it": "🇮🇹 Italian", 
+    "es": "🇪🇸 Spanish"
   },
   "demo": {
     "store-1": "https://themes.shopify.com/themes/bullet/styles/default/preview",
