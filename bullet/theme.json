@@ -7,11 +7,14 @@
   "changelog": "https://openthinking.net/changelog/bullet/v2.md",
   "locale": {
     "en": "🇺🇸 English",
+    "bg": "🇧🇬 Bulgarian",
+    "de": "🇩🇪 German",
+    "dk": "🇩🇰 Danish",
+    "es": "🇪🇸 Spanish",
     "fr": "🇫🇷 French",
     "it": "🇮🇹 Italian",
-    "de": "🇩🇪 German",
-    "es": "🇪🇸 Spanish",
-    "nl": "🇳🇱 Dutch"
+    "nl": "🇳🇱 Dutch",
+    "se": "🇸🇪 Swedish"
   },
   "demo": {
     "store-1": "https://themes.shopify.com/themes/bullet/styles/default/preview",
@@ -26,6 +29,7 @@
     "4": { "version":"v2.2.5", "date": "05/05/2022" },
     "5": { "version":"v2.3.0", "date": "24/06/2022" },
     "6": { "version":"v2.4.0", "date": "08/08/2022" },
-    "7": { "version":"v2.4.5", "date": "10/08/2022" }
+    "7": { "version":"v2.4.5", "date": "10/08/2022" },
+    "8": { "version":"v2.5.0", "date": "XX/09/2022" }
   }
 }
