@@ -6,9 +6,16 @@
   "docs": "https://bullet.docs.openthinking.net/",
   "changelog": "https://openthinking.net/changelog/bullet/v2.md",
   "locale": {
-    "en": "🇺🇸 English", 
-    "it": "🇮🇹 Italian", 
-    "es": "🇪🇸 Spanish"
+    "en": "🇺🇸 English",
+    "bg": "🇧🇬 Bulgarian",
+    "de": "🇩🇪 German",
+    "da": "🇩🇰 Danish",
+    "es": "🇪🇸 Spanish",
+    "fr": "🇫🇷 French",
+    "it": "🇮🇹 Italian",
+    "nl": "🇳🇱 Dutch",
+    "pt": "🇵🇹 Portuguese",
+    "sv": "🇸🇪 Swedish"
   },
   "demo": {
     "store-1": "https://themes.shopify.com/themes/bullet/styles/default/preview",
