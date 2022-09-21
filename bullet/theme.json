@@ -2,7 +2,7 @@
   "theme": "Bullet",
   "url": "https://openthinking.net/themes/bullet/",
   "shopify": "https://themes.shopify.com/themes/bullet/",
-  "price": 270,
+  "price": 280,
   "docs": "https://bullet.docs.openthinking.net/",
   "changelog": "https://openthinking.net/changelog/bullet/v2.md",
   "locale": {
@@ -30,6 +30,7 @@
     "4": { "version":"v2.2.5", "date": "05/05/2022" },
     "5": { "version":"v2.3.0", "date": "24/06/2022" },
     "6": { "version":"v2.4.0", "date": "08/08/2022" },
-    "7": { "version":"v2.4.5", "date": "10/08/2022" }
+    "7": { "version":"v2.4.5", "date": "10/08/2022" },
+    "8": { "version":"v2.4.6", "date": "09/09/2022" }
   }
 }
