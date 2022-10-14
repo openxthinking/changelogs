@@ -5,6 +5,11 @@
   "price": 280,
   "docs": "https://bullet.docs.openthinking.net/",
   "changelog": "https://openthinking.net/changelog/bullet/v2.md",
+  "changelogs": {
+    "v1": "https://openthinking.net/changelog/bullet/v1.md",
+    "v2": "https://openthinking.net/changelog/bullet/v2.md",
+    "v3": "https://openthinking.net/changelog/bullet/v3.md"
+  },
   "locale": {
     "en": "🇺🇸 English",
     "bg": "🇧🇬 Bulgarian",
@@ -18,19 +23,20 @@
     "sv": "🇸🇪 Swedish"
   },
   "demo": {
-    "store-1": "https://themes.shopify.com/themes/bullet/styles/default/preview",
-    "store-2": "https://themes.shopify.com/themes/bullet/styles/khaki/preview",
-    "store-3": "https://themes.shopify.com/themes/bullet/styles/vision/preview"
+    "1": "https://themes.shopify.com/themes/bullet/styles/default/preview",
+    "2": "https://themes.shopify.com/themes/bullet/styles/khaki/preview",
+    "3": "https://themes.shopify.com/themes/bullet/styles/vision/preview"
   },
   "versioning": {
-    "0": { "version":"N/A", "date": "17/02/2022" },
-    "1": { "version":"v2.0", "date": "17/02/2022" },
-    "2": { "version":"v2.1.0", "date": "28/03/2022" },
-    "3": { "version":"v2.2.0", "date": "04/04/2022" },
-    "4": { "version":"v2.2.5", "date": "05/05/2022" },
-    "5": { "version":"v2.3.0", "date": "24/06/2022" },
-    "6": { "version":"v2.4.0", "date": "08/08/2022" },
-    "7": { "version":"v2.4.5", "date": "10/08/2022" },
-    "8": { "version":"v2.4.6", "date": "09/09/2022" }
+    "v2": [
+      { "version":"v2.0", "date": "17/02/2022" },
+      { "version":"v2.1.0", "date": "28/03/2022" },
+      { "version":"v2.2.0", "date": "04/04/2022" },
+      { "version":"v2.2.5", "date": "05/05/2022" },
+      { "version":"v2.3.0", "date": "24/06/2022" },
+      { "version":"v2.4.0", "date": "08/08/2022" },
+      { "version":"v2.4.5", "date": "10/08/2022" },
+      { "version":"v2.4.6", "date": "09/09/2022" }  
+    ]
   }
 }
