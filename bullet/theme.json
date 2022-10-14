@@ -1,8 +1,9 @@
 {
   "theme": "Bullet",
+  "price": 280,
+  "version": "2.4.6",
   "url": "https://openthinking.net/themes/bullet/",
   "shopify": "https://themes.shopify.com/themes/bullet/",
-  "price": 280,
   "docs": "https://bullet.docs.openthinking.net/",
   "changelog": "https://openthinking.net/changelog/bullet/v2.md",
   "changelogs": {
