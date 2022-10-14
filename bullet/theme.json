@@ -28,7 +28,6 @@
     "3": "https://themes.shopify.com/themes/bullet/styles/vision/preview"
   },
   "versioning": {
-    "v1": { "version":"v1.0", "date": "23/02/2020" },
     "v2": [
       { "version":"v2.0", "date": "17/02/2022" },
       { "version":"v2.1.0", "date": "28/03/2022" },
@@ -38,6 +37,9 @@
       { "version":"v2.4.0", "date": "08/08/2022" },
       { "version":"v2.4.5", "date": "10/08/2022" },
       { "version":"v2.4.6", "date": "09/09/2022" }  
+    ],
+    "v3": [
+      { "version":"v3.0", "date": "0/0/0000" }
     ]
   }
 }
