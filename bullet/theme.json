@@ -2,9 +2,9 @@
   "theme": "Bullet",
   "url": "https://openthinking.net/themes/bullet/",
   "shopify": "https://themes.shopify.com/themes/bullet/",
-  "price": 280,
+  "price": 300,
   "docs": "https://bullet.docs.openthinking.net/",
-  "changelog": "https://openthinking.net/changelog/bullet/v2.md",
+  "changelog": "https://openthinking.net/changelog/bullet/v3.md",
   "changelogs": {
     "v1": "https://openthinking.net/changelog/bullet/v1.md",
     "v2": "https://openthinking.net/changelog/bullet/v2.md",
@@ -24,8 +24,9 @@
   },
   "demo": {
     "1": "https://themes.shopify.com/themes/bullet/styles/default/preview",
-    "2": "https://themes.shopify.com/themes/bullet/styles/khaki/preview",
-    "3": "https://themes.shopify.com/themes/bullet/styles/vision/preview"
+    "2": "https://themes.shopify.com/themes/bullet/styles/midnight/preview",
+    "3": "https://themes.shopify.com/themes/bullet/styles/vision/preview",
+    "4": "https://themes.shopify.com/themes/bullet/styles/khaki/preview"
   },
   "versioning": {
     "v2": [
@@ -39,7 +40,7 @@
       { "version":"v2.4.6", "date": "09/09/2022" }  
     ],
     "v3": [
-      { "version":"v3.0", "date": "0/0/0000" }
+      { "version":"v3.0", "date": "08/12/2022" }
     ]
   }
 }
