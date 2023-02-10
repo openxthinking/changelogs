@@ -7,3 +7,6 @@ Contains themes changelogs.
 `v2` - https://openthinking.net/changelog/bullet/v2.md
 
 `v3` - https://openthinking.net/changelog/bullet/v3.md
+
+`v4` - https://openthinking.net/changelog/bullet/v4.md
+
