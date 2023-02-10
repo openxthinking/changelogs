@@ -2,13 +2,14 @@
   "theme": "Bullet",
   "url": "https://openthinking.net/themes/bullet/",
   "shopify": "https://openthinking.net/go/shopify-bullet",
-  "price": 300,
+  "price": 310,
   "docs": "https://bullet.docs.openthinking.net/",
-  "changelog": "https://openthinking.net/changelog/bullet/v3.md",
+  "changelog": "https://openthinking.net/changelog/bullet/v4.md",
   "changelogs": {
     "v1": "https://openthinking.net/changelog/bullet/v1.md",
     "v2": "https://openthinking.net/changelog/bullet/v2.md",
-    "v3": "https://openthinking.net/changelog/bullet/v3.md"
+    "v3": "https://openthinking.net/changelog/bullet/v3.md",
+    "v4": "https://openthinking.net/changelog/bullet/v4.md"
   },
   "locale": {
     "en": "🇺🇸 English",
@@ -18,9 +19,12 @@
     "es": "🇪🇸 Spanish",
     "fr": "🇫🇷 French",
     "it": "🇮🇹 Italian",
+    "jp": "🇯🇵 Japanese",
+    "it": "🇮🇹 Italian", 
     "nl": "🇳🇱 Dutch",
     "pt": "🇵🇹 Portuguese",
-    "sv": "🇸🇪 Swedish"
+    "sv": "🇸🇪 Swedish",
+    "zh": "🇨🇳 Chinese"
   },
   "demo": {
     "1": "https://openthinking.net/go/bullet1",
@@ -42,6 +46,9 @@
     "v3": [
       { "version":"v3.0", "date": "08/12/2022" },
       { "version":"v3.1", "date": "18/01/2023" }
+    ],
+    "v4": [
+      { "version":"v4.0", "date": "00/02/2023" }
     ]
   }
 }
